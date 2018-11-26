@@ -1,0 +1,6 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\2 аттестация\Task4LastVersion\Task4\DrawingObjects\bin\Debug\DrawingObjects.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\2 аттестация\Task4LastVersion\Task4\DrawingObjects\bin\Debug\DrawingObjects.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\2 аттестация\Task4LastVersion\Task4\DrawingObjects\obj\Debug\DrawingObjects.csprojAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\2 аттестация\Task4LastVersion\Task4\DrawingObjects\obj\Debug\DrawingObjects.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\2 аттестация\Task4LastVersion\Task4\DrawingObjects\obj\Debug\DrawingObjects.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\2 аттестация\Task4LastVersion\Task4\DrawingObjects\obj\Debug\DrawingObjects.pdb
